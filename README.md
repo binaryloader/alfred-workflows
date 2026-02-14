@@ -11,4 +11,4 @@ Convert current time to Jekyll's `last_modified_at` format in UTC.
 
 ## License
 
-[MIT](LICENSE)
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
